@@ -4,7 +4,8 @@ This repository contains my solutions to the [LeetCode 75](https://leetcode.com/
 Each problem is solved in Python and explained with simple logic.
 
 ### ✅ Progress:
-- Problem 1: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
+- Problem 1: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- Problem 2: [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 
 ---
 
