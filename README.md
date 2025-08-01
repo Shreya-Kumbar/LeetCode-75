@@ -7,7 +7,7 @@ Each problem is solved in Python and explained with simple logic.
 - Problem 1: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - Problem 2: [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - Problem 3: [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-
+- Problem 4: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 ---
 
 ## How I'm Solving
