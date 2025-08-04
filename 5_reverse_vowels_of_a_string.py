@@ -5,17 +5,15 @@ class Solution:
     def reverseVowels(self, s: str) -> str:
         
         s = list(s)
-        Vowels = ['A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u']
+        Vowels = set('AEIOUaeiou')
         VowelsPresent = []
-        index = []
+
+        for letter in s:
+            if letter in Vowels:
+                VowelsPresent.append(letter)
 
         for i in range(len(s)):
-            for vowel in Vowels:
-                if s[i] == vowel:
-                    VowelsPresent.append(vowel)
-                    index.append(i)
-
-        for i in index:
-            s[i] = VowelsPresent.pop()
+            if s[i] in Vowels:
+                s[i] = VowelsPresent.pop()   # adds in reverse order
 
         return ''.join(s) 
