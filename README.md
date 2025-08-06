@@ -9,7 +9,7 @@ Each problem is solved in Python and explained with simple logic.
 - Problem 3: [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - Problem 4: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 - Problem 5: [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-- Problem 6: [Revere Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
+- Problem 6: [Revere Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 ---
 
 ## How I'm Solving
