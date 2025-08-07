@@ -10,6 +10,7 @@ Each problem is solved in Python and explained with simple logic.
 - Problem 4: [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 - Problem 5: [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - Problem 6: [Revere Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- Problem 7: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 ---
 
 ## How I'm Solving
