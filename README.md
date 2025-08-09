@@ -1,7 +1,9 @@
-# LeetCode 75 - Study Plan
+# ✨LeetCode 75 - Study Plan
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/) study plan.  
 Each problem is solved in Python and explained with simple logic.
+
+You can jump to any question problem by clicking any of the links below and the answer code is given in this repository.
 
 ### ✅ Progress:
 - Problem 1: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
@@ -12,9 +14,11 @@ Each problem is solved in Python and explained with simple logic.
 - Problem 6: [Revere Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - Problem 7: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - Problem 8: [Increase Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- Problem 9: [String Compression](https://leetcode.com/problems/string-compression/)
 ---
 
 ## How I'm Solving
 - 🔰 Python 3
 - 📚 Learning basic data structures
 - 🧠 Understanding patterns like two pointers, sliding window, etc.
+---
