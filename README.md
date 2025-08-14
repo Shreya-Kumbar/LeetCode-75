@@ -5,6 +5,8 @@ Each problem is solved in Python and explained with simple logic.
 
 You can jump to any problem question of the solution codes by clicking any of the links below and the solution code is given in this repository.
 
+---
+
 ### ✅ Progress:
 - Problem 1: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - Problem 2: [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
@@ -17,6 +19,7 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 9: [String Compression](https://leetcode.com/problems/string-compression/)
 - Problem 10: [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - Problem 11: [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- Problem 12: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 ---
 
 ## How I'm Solving
