@@ -21,6 +21,7 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 11: [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - Problem 12: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - Problem 13: [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+- Problem 14: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 ---
 
 ## How I'm Solving
