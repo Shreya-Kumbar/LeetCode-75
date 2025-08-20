@@ -25,6 +25,8 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 15: [Max Number of Vowels in A Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - Problem 16: [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 - Problem 17: [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- Problem 18: [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+- Problem 19: [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 ---
 
 ## How I'm Solving
