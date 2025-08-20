@@ -24,6 +24,7 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 14: [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - Problem 15: [Max Number of Vowels in A Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - Problem 16: [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
+- Problem 17: [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 ---
 
 ## How I'm Solving
