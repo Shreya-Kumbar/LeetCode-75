@@ -27,6 +27,7 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 17: [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - Problem 18: [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - Problem 19: [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- Problem 20: [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 ---
 
 ## How I'm Solving
