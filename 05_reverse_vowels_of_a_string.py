@@ -4,16 +4,23 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
         
+        Vowels = set("aeiouAEIOU")
+
         s = list(s)
-        Vowels = set('AEIOUaeiou')
-        VowelsPresent = []
 
-        for letter in s:
-            if letter in Vowels:
-                VowelsPresent.append(letter)
+        i, j = 0, len(s) - 1
 
-        for i in range(len(s)):
-            if s[i] in Vowels:
-                s[i] = VowelsPresent.pop()   # adds in reverse order
+        while i < j:
 
-        return ''.join(s) 
+            if s[i] not in Vowels:
+                i += 1
+                
+            if s[j] not in Vowels:
+                j -= 1
+
+            if s[i] in Vowels and s[j] in Vowels:
+                s[i], s[j] = s[j], s[i]
+                i += 1
+                j -= 1
+
+        return "".join(s)
