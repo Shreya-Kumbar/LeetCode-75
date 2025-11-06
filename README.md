@@ -30,6 +30,7 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 20: [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 - Problem 21: [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - Problem 22: [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+- Problem 23: [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)
 ---
 
 ## How I'm Solving
