@@ -1,7 +1,7 @@
 # ✨LeetCode 75 - Study Plan
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/) study plan.  
-Each problem is solved in Python3 and explained with simple logic.
+Each problem is solved in Python3 or C Language and explained with simple logic.
 
 You can jump to any problem question of the solution codes by clicking any of the links below and the solution code is given in this repository.
 
@@ -31,10 +31,11 @@ You can jump to any problem question of the solution codes by clicking any of th
 - Problem 21: [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - Problem 22: [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 - Problem 23: [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)
+- Problem 24: [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list//)
 ---
 
 ## How I'm Solving
-- 🔰 Python 3
+- 🔰 Python 3 and C Language
 - 📚 Learning basic data structures
 - 🧠 Understanding patterns like two pointers, sliding window, etc.
 ---
