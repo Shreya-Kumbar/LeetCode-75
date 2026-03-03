@@ -38,10 +38,14 @@ You can jump to any problem question of the solution codes by clicking any of th
 - 🟡 Problem 23: [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)
 - 🟡 Problem 24: [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list//)
 - 🟢 Problem 25: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- 🟡 Problem 26: [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+- 🟢 Problem 27: [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
+- 🟡 Problem 28: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- 🟢 Problem 29: [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 ---
 
 ## How I'm Solving
-- 🔰 Python 3 and C Language
-- 📚 Learning basic data structures
-- 🧠 Understanding patterns like two pointers, sliding window, etc.
+- Python 3 and C Language
+- Learning basic data structures
+- Understanding patterns like two pointers, sliding window, etc.
 ---
