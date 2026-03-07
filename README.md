@@ -42,6 +42,11 @@ You can jump to any problem question of the solution codes by clicking any of th
 - 🟢 Problem 27: [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/)
 - 🟡 Problem 28: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - 🟢 Problem 29: [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
+- 🟢 Problem 30: [Search in a Binary Search Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- 🟡 Problem 31: [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+- 🟡 Problem 32: [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+- 🟢 Problem 33: [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- 🟡 Problem 34: [Sucessful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 ---
 
 ## How I'm Solving
