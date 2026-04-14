@@ -1,7 +1,7 @@
 # ✨LeetCode 75 - Study Plan
 
 This repository contains my solutions to the [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/) study plan.  
-Each problem is solved in Python3 or C Language and explained with simple logic.
+Each problem is solved in Python3 or C or C++ and explained with simple logic.
 
 **Difficulty**:  
 🟢- Easy  
@@ -47,10 +47,20 @@ You can jump to any problem question of the solution codes by clicking any of th
 - 🟡 Problem 32: [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 - 🟢 Problem 33: [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 - 🟡 Problem 34: [Sucessful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
+- 🟡 Problem 35: [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+- 🟡 Problem 36: [Maximum Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+- 🟡 Problem 37: [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
+- 🟡 Problem 38: [Decode String](https://leetcode.com/problems/decode-string/description/)
+- 🟡 Problem 39: [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+- 🟡 Problem 40: [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+- 🟢 Problem 41: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
+- 🟡 Problem 42: [Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
+- 🟡 Problem 43: [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
+
 ---
 
 ## How I'm Solving
-- Python 3 and C Language
+- Python3, C and C++ Language
 - Learning basic data structures
-- Understanding patterns like two pointers, sliding window, etc.
+- Understanding patterns like two pointers, sliding window, binary search, etc.. and Data Structures like Stack, Queue, Linked Lists, BST, etc.
 ---
